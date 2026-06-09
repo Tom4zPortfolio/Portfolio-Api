@@ -16,3 +16,6 @@ api_login:
 
 api_refresh_token:
     path: /api/refresh
+
+api_token_invalidate:
+    path: /api/token/invalidate

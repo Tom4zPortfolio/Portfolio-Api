@@ -35,7 +35,7 @@ security:
             stateless: true
             jwt: ~
             logout:
-                path: api_token_invalidate~
+                path: api_token_invalidate
 
     # Note: Only the *first* matching rule is applied
     access_control:
